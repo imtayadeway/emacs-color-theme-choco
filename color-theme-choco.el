@@ -1,8 +1,8 @@
-(defun color-theme-choco-ii ()
+(defun color-theme-choco ()
   "Choco theme. Converted from the textMate theme by imtayadeway"
   (interactive)
   (color-theme-install
-   '(color-theme-choco-ii
+   '(color-theme-choco
      ((background-color . "#180C0C")
       (foreground-color . "#C3BE98")
       (background-mode . dark)
@@ -24,4 +24,4 @@
      (font-lock-type-face ((t (:foreground "#F1E694"))))
      )))
 
-(provide 'color-theme-choco-ii)
+(provide 'color-theme-choco)
