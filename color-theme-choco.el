@@ -3,7 +3,7 @@
   (interactive)
   (color-theme-install
    '(color-theme-choco
-     ((background-color . "#180C0C")
+     ((background-color . "#221612")
       (foreground-color . "#C3BE98")
       (background-mode . dark)
       (border-color . "#361F1A")
@@ -13,15 +13,16 @@
      (mode-line ((t (:foreground "#F8F8F8" :background "#0E2231"))))
      (region ((t (:background "#636368"))))
 
-     (font-lock-comment-face ((t (:foreground "#679D47" :background "#180C0C"))))
+     (font-lock-comment-face ((t (:foreground "#679D47" :background "#172013" :italic t))))
      (font-lock-constant-face ((t (:foreground "#D77261"))))
-     (font-lock-builtin-face ((t (:foreground "#C29863"))))
-     (font-lock-function-name-face ((t (:foreground "#C29863"))))
+     (font-lock-builtin-face ((t (:foreground "#A8799C"))))
+     (font-lock-function-name-face ((t (:foreground "#6D4C2F"))))
      (font-lock-variable-name-face ((t (:foreground "#7989A6"))))
      (font-lock-keyword-face ((t (:foreground "#B3935C"))))
-     (font-lock-string-face ((t (:foreground "#DDF2A4"))))
+     (font-lock-string-face ((t (:foreground "#7CA563"))))
      (font-lock-doc-string-face ((t (:foreground "#DDF2A4"))))
-     (font-lock-type-face ((t (:foreground "#F1E694"))))
+     (font-lock-type-face ((t (:foreground "#A8799C"))))
+     (font-lock-number-face ((t (:foreground "#DA5659"))))
      )))
 
 (provide 'color-theme-choco)
