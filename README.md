@@ -1,7 +1,7 @@
 emacs-color-theme-choco
 =======================
 
-Emacs color theme converted from the TextMate theme created by [Ludwig Widman](http://www.ludw.se/blog/).
+Emacs color theme converted from the TextMate theme created by [Ludvig Widman](http://www.ludw.se/blog/).
 
 ## Installation Instructions
 
