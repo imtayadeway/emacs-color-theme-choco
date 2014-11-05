@@ -49,6 +49,7 @@
      (org-column-title ((t (:background "#361f1a" ))))
      (org-done ((t (:foreground "#f8f8f8" :background "#253b22" ))))
      (org-hide ((t (:foreground "#180c0c" ))))
+     (org-link ((t (:foreground "#D77261" :underline t))))
      (org-todo ((t (:foreground "#f8f8f8" :background "#462543" ))))
      (org-upcoming-deadline ((t (:foreground "#d2a8a1" :italic t :underline t ))))
      (org-warning ((t (:foreground "#f8f8f8" :background "#462543" ))))
