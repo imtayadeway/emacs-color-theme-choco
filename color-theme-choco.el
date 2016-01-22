@@ -3,7 +3,7 @@
   (interactive)
   (color-theme-install
    '(color-theme-choco
-     ((background-color . "#221612")
+     ((background-color . "#180C0C")
       (foreground-color . "#C3BE98")
       (background-mode . dark)
       (border-color . "#361F1A")
