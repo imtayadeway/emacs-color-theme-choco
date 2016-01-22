@@ -182,7 +182,7 @@
      (term-color-black ((t (:foreground "#180C0C"))))
      (term-color-red ((t (:foreground "#D77261"))))
      (term-color-green ((t (:foreground "#7CA563"))))
-     (term-color-yellow ((t (:foreground "#F8F8F8"))))
+     (term-color-yellow ((t (:foreground "#F1E694"))))
      (term-color-blue ((t (:foreground "#7989A6"))))
      (term-color-magenta ((t (:foreground "#A8799C"))))
      (term-color-cyan ((t (:foreground "#AFC4DB"))))
