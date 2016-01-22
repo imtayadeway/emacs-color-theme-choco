@@ -174,6 +174,9 @@
      ;; (org-latex-and-export-specials)
      ;; (org-mode-line-clock-overrun)
 
+     ;; perspective
+     (persp-selected-face ((t (:foreground "#F1E694"))))
+
      ;; term
      ;; (term)
      (term-color-black ((t (:foreground "#180C0C"))))
