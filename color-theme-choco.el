@@ -175,7 +175,7 @@
      ;; (org-mode-line-clock-overrun)
 
      ;; perspective
-     (persp-selected-face ((t (:foreground "#F1E694"))))
+     (persp-selected-face ((t (:foreground "#DA5659"))))
 
      ;; term
      ;; (term)
