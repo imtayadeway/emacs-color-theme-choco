@@ -198,7 +198,7 @@
      ;; (whitespace-tab)
      ;; (whitespace-newline)
      ;; (whitespace-trailing)
-     (whitespace-line ((t (:background "#D2A8A1"))))
+     (whitespace-line ((t (:background "#FF9C75"))))
      ;; (whitespace-space-before-tab)
      ;; (whitespace-indentation)
      ;; (whitespace-empty)
