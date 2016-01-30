@@ -41,7 +41,7 @@
      ;; (widget-field)
 
      ;; font-lock
-     (font-lock-builtin-face ((t (:foreground "#A8799C"))))
+     (font-lock-builtin-face ((t (:foreground "#F1E694"))))
      ;; (font-lock-comment-delimiter-face)
      (font-lock-comment-face ((t (:foreground "#679D47"))))
      (font-lock-constant-face ((t (:foreground "#DA5659"))))
