@@ -193,16 +193,16 @@
      (term-color-white ((t (:foreground "#C3BE98"))))
 
      ;; whitespace-mode
-     (whitespace-space ((t (:background "#FF9C75"))))
-     (whitespace-hspace ((t (:background "#FF9C75"))))
-     (whitespace-tab ((t (:background "#FF9C75"))))
-     (whitespace-newline ((t (:background "#FF9C75"))))
-     (whitespace-trailing ((t (:background "#FF9C75"))))
+     (whitespace-space ((t (:background "#420E09"))))
+     (whitespace-hspace ((t (:background "#420E09"))))
+     (whitespace-tab ((t (:background "#420E09"))))
+     (whitespace-newline ((t (:background "#420E09"))))
+     (whitespace-trailing ((t (:background "#420E09"))))
      (whitespace-line ((t (:background "#420E09"))))
-     (whitespace-space-before-tab ((t (:background "#FF9C75"))))
-     (whitespace-indentation ((t (:background "#FF9C75"))))
-     (whitespace-empty ((t (:background "#FF9C75"))))
-     (whitespace-space-after-tab ((t (:background "#FF9C75"))))
+     (whitespace-space-before-tab ((t (:background "#420E09"))))
+     (whitespace-indentation ((t (:background "#420E09"))))
+     (whitespace-empty ((t (:background "#420E09"))))
+     (whitespace-space-after-tab ((t (:background "#420E09"))))
 
      ;;;;; yasnippet
      ;; (yas-field-highlight-face)
