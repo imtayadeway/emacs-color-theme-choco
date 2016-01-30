@@ -56,7 +56,7 @@
      (font-lock-regexp-grouping-backslash ((t (:foreground "#DDF2A4"))))
      (font-lock-regexp-grouping-construct ((t (:foreground "#DDF2A4"))))
      (font-lock-string-face ((t (:foreground "#7CA563"))))
-     (font-lock-type-face ((t (:foreground "#A8799C"))))
+     (font-lock-type-face ((t (:foreground "#A8799C")))) ;; classes
      (font-lock-variable-name-face ((t (:foreground "#7989A6"))))
      ;; (font-lock-warning-face)
      ;; (c-annotation-face)
@@ -198,7 +198,7 @@
      ;; (whitespace-tab)
      ;; (whitespace-newline)
      ;; (whitespace-trailing)
-     (whitespace-line ((t (:background "#FF9C75"))))
+     (whitespace-line ((t (:foreground "#F8F8F8" :background "#562D56"))))
      ;; (whitespace-space-before-tab)
      ;; (whitespace-indentation)
      ;; (whitespace-empty)
