@@ -38,7 +38,6 @@
      (trailing-whitespace ((t (:background "#524949"))))
      ;; (vertical-border)
      ;; (warning)
-     (whitespace-trailing ((t (:background "#524949"))))
      ;; (widget-field)
 
      ;; font-lock
