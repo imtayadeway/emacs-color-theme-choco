@@ -198,7 +198,7 @@
      (whitespace-tab ((t (:background "#FF9C75"))))
      (whitespace-newline ((t (:background "#FF9C75"))))
      (whitespace-trailing ((t (:background "#FF9C75"))))
-     (whitespace-line ((t (:background "#172013"))))
+     (whitespace-line ((t (:background "#BA9C79"))))
      (whitespace-space-before-tab ((t (:background "#FF9C75"))))
      (whitespace-indentation ((t (:background "#FF9C75"))))
      (whitespace-empty ((t (:background "#FF9C75"))))
