@@ -56,7 +56,7 @@
      (font-lock-regexp-grouping-backslash ((t (:foreground "#DDF2A4"))))
      (font-lock-regexp-grouping-construct ((t (:foreground "#DDF2A4"))))
      (font-lock-string-face ((t (:foreground "#7CA563"))))
-     (font-lock-type-face ((t (:foreground "#F1E694"))))
+     (font-lock-type-face ((t (:foreground "#A8799C"))))
      (font-lock-variable-name-face ((t (:foreground "#7989A6"))))
      ;; (font-lock-warning-face)
      ;; (c-annotation-face)
