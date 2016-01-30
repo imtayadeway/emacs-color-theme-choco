@@ -177,6 +177,10 @@
      ;; perspective
      (persp-selected-face ((t (:foreground "#DA5659"))))
 
+     ;; show-paren
+     (show-paren-match ((t (:background "#DDF0FF"))))
+     (show-paren-mismatch ((t (:foreground "#F8F8F8" :background "#562D56"))))
+
      ;; term
      ;; (term)
      (term-color-black ((t (:foreground "#180C0C"))))
