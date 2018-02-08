@@ -61,6 +61,9 @@
      ;; (font-lock-warning-face)
      ;; (c-annotation-face)
 
+     ;; compilation
+     (compilation-info ((t :foreground "#7989A6")))
+
      ;; dired
      ;; (dired-directory)
      ;; (dired-flagged)
@@ -77,6 +80,9 @@
      ;; (grep-error-face)
      ;; (grep-hit-face)
      ;; (grep-match-face)
+
+     ;; help
+     (help-function-def-button ((t (:foreground "#7989A6"))))
 
      ;; Third-party
 
@@ -149,7 +155,7 @@
      ;; (org-block-begin-line)
      ;; (org-checkbox)
      ;; (org-code)
-     ;; (org-date)
+     (org-date ((t (:foreground "#7CA563"))))
      ;; (org-ellipsis)
      ;; (org-formula)
      ;; (org-headline-done)
@@ -157,7 +163,7 @@
      ;; (org-scheduled)
      ;; (org-scheduled-previously)
      ;; (org-scheduled-today)
-     ;; (org-special-keyword)
+     (org-special-keyword ((t (:foreground "#DA5659"))))
      ;; (org-table)
      ;; (org-tag)
      ;; (org-time-grid)
