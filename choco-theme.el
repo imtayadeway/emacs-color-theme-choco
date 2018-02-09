@@ -1,4 +1,4 @@
-;;; color-theme-choco.el --- Choco for Emacs.
+;;; choco-theme.el --- Choco for Emacs.
 
 ;; Copyright (C) 2018 Tim Wade
 
@@ -667,10 +667,10 @@ Also bind `class' to ((class color) (min-colors 89))."
 
 (defvar choco-add-font-lock-keywords nil
   "Whether to add font-lock keywords for choco color names.
-In buffers visiting library `color-theme-choco.el' the choco
-specific keywords are always added.  In all other Emacs-Lisp
-buffers this variable controls whether this should be done.
-This requires library `rainbow-mode'.")
+In buffers visiting library `choco-theme.el' the choco specific
+keywords are always added.  In all other Emacs-Lisp buffers this
+variable controls whether this should be done.  This requires
+library `rainbow-mode'.")
 
 (defvar choco-colors-font-lock-keywords nil)
 
@@ -690,4 +690,4 @@ This requires library `rainbow-mode'.")
 ;; indent-tabs-mode: nil
 ;; eval: (when (require 'rainbow-mode nil t) (rainbow-mode 1))
 ;; End:
-;;; color-theme-choco.el ends here
+;;; choco-theme.el ends here
