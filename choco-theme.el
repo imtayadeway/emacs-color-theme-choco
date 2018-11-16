@@ -192,7 +192,7 @@ Also bind `class' to ((class color) (min-colors 89))."
      ((t (:foreground ,choco-fg
                       :background ,choco-bg
                       :box (:line-width -1 :style released-button)))))
-   `(region ((,class (:background ,choco-bg+1))
+   `(region ((,class (:background ,choco-blue+5))
              (t :inverse-video t)))
    `(secondary-selection ((t (:background ,choco-bg+1))))
    `(trailing-whitespace ((t (:background ,choco-orange))))
