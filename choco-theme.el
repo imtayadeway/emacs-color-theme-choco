@@ -136,7 +136,7 @@ Also bind `class' to ((class color) (min-colors 89))."
    `(header-line ((t (:foreground ,choco-fg+2
                                   :background ,choco-bg+1
                                   :box (:line-width -1 :style released-button)))))
-   `(highlight ((t (:background ,choco-blue+5))))
+   `(highlight ((t (:background ,choco-bg+6))))
    `(success ((t (:foreground ,choco-green :weight bold))))
    `(warning ((t (:foreground ,choco-orange :weight bold))))
    `(tooltip ((t (:foreground ,choco-fg :background ,choco-bg+1))))
